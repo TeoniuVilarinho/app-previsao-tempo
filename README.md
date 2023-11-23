@@ -6,7 +6,7 @@
 
 ## Print
 
-<img src="./design/app-previsao-tempo.png">
+<img src="./src/design/app-previsao-tempo.png">
 
 ## Link
 
